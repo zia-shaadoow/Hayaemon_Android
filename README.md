@@ -1,31 +1,31 @@
-ハヤえもん for Android
+Hayaemon for Android
 ====
 
-「音楽を、もっと楽しく」をコンセプトに開発している無料音楽再生アプリです。
+This is a free music playback app developed with the concept of "making music more fun".
 
-## 概要
+## Overview
 
-このアプリは、「音楽を、もっと楽しく」をコンセプトに開発している無料音楽再生アプリです。
+This app is a free music playback app developed with the concept of "making music more fun".
 
-2005年からWindows版を開発し始め、その後、iOS版、Android版、Mac版と開発を進めています。
+We started developing the Windows version in 2005, and have since been developing the iOS version, Android version, and Mac version.
 
-## ビルドと実行
+## Build and run
 
-### 開発環境
+### Development environment
 
-- Android Studio
-- サウンド関連の実装には、高性能オーディオライブラリ「BASS」を使用しています。有用なライブラリを公開なさっている Ian Luck 氏に、深く感謝致します。
+-Android Studio
+-High-performance audio library "BASS" is used for sound related implementation. We would like to thank Ian Luck for publishing a useful library.
 
-Un4seen Developments : http://www.un4seen.com/
+Un4seen Developments: http://www.un4seen.com/
 
-## ビルド
-Android Studioからアプリをビルドします。
+## build
+Build the app from Android Studio.
 
-## 実行
-Android Studioからシミュレータや実機でアプリを実行します。
+## execute
+Run the app from Android Studio on a simulator or real machine.
 
-## ライセンス
-[GPL v3 ライセンス](https://www.gnu.org/licenses/gpl-3.0.html)
+## License
+[GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.html)
 
-## 作者
+## Author
 [ryotayama](https://github.com/ryotayama)
